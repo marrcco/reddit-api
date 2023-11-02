@@ -18,12 +18,12 @@ Before using this library, you will need to have the following:
 
 ```bash
 git clone https://github.com/yourusername/reddit-api-python.git
-
+```
 
 Install the required dependencies:
-bash
-Copy code
+```bash
 pip install praw
+```
 Update config.json with your Reddit API credentials.
 
 Run the Python scripts to use the library for Reddit data extraction.
